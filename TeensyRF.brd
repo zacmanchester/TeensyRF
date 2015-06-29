@@ -149,6 +149,10 @@
 <wire x1="40" y1="37" x2="37" y2="40" width="0" layer="20" curve="90"/>
 <wire x1="37" y1="40" x2="3" y2="40" width="0" layer="20"/>
 <wire x1="3" y1="40" x2="0" y2="37" width="0" layer="20" curve="90"/>
+<text x="2" y="36" size="1.778" layer="25">I-</text>
+<text x="36.7" y="36" size="1.778" layer="25">I+</text>
+<text x="1.2" y="3" size="1.778" layer="25">Q-</text>
+<text x="36" y="3" size="1.778" layer="25">Q+</text>
 </plain>
 <libraries>
 <library name="Teensy_3_Series_Board_v1.0">
