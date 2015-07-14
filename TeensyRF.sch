@@ -1742,8 +1742,8 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <part name="R10" library="SparkFun-Resistors" deviceset="RESISTOR" device="0805-RES" value="100R"/>
 <part name="C4" library="SparkFun-Capacitors" deviceset="CAP" device="0805" value="0.1uF"/>
 <part name="GND10" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="R11" library="SparkFun-Resistors" deviceset="RESISTOR" device="0805-RES" value="1.5k"/>
-<part name="R12" library="SparkFun-Resistors" deviceset="RESISTOR" device="0805-RES" value="2k"/>
+<part name="R11" library="SparkFun-Resistors" deviceset="RESISTOR" device="0805-RES" value="2k"/>
+<part name="R12" library="SparkFun-Resistors" deviceset="RESISTOR" device="0805-RES" value="1.5k"/>
 <part name="SUPPLY5" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
 <part name="GND11" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="X3" library="con-coax" deviceset="SMA-" device="142-0701-801/806"/>

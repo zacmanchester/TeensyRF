@@ -56,7 +56,7 @@
 <layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
 <layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
-<layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
+<layer number="90" name="Modules" color="5" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="no" active="no"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="no" active="no"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="no"/>
@@ -550,10 +550,10 @@ Please make sure your boards conform to these design rules.</description>
 <element name="C4" library="SparkFun-Capacitors" package="0805" value="0.1uF" x="30.3" y="9.2" smashed="yes">
 <attribute name="NAME" x="29.538" y="7.9255" size="0.4064" layer="25"/>
 </element>
-<element name="R11" library="SparkFun-Resistors" package="0805" value="1.5k" x="35.5" y="32.6" smashed="yes">
+<element name="R11" library="SparkFun-Resistors" package="0805" value="2k" x="35.5" y="32.6" smashed="yes">
 <attribute name="NAME" x="34.738" y="33.4255" size="0.4064" layer="25"/>
 </element>
-<element name="R12" library="SparkFun-Resistors" package="0805" value="2k" x="35.5" y="30.4" smashed="yes" rot="R180">
+<element name="R12" library="SparkFun-Resistors" package="0805" value="1.5k" x="35.5" y="30.4" smashed="yes" rot="R180">
 <attribute name="NAME" x="33.962" y="30.4745" size="0.4064" layer="25" rot="R180"/>
 </element>
 <element name="X3" library="con-coax" package="J502-ND-142-0701-801/806" value="SMA-142-0701-801/806" x="30" y="40" smashed="yes" rot="R270">
